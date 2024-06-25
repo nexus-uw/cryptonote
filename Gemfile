@@ -36,7 +36,7 @@ gem 'uglifier', '~> 3.0', '>= 3.0.1'
 gem 'coffee-rails', '~> 4.2', '>= 4.2.1'
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '~> 4.1', '>= 4.1.1'
+gem 'jquery-rails', '~> 4.4'
 
 gem 'zeroclipboard-rails', '~> 0.1.2'
 
